@@ -1,0 +1,20 @@
+.text-box{
+    text-align: center;
+}
+.allBtns{
+    margin-right: 1rem;
+}
+body{
+    background-color:#EAEAEA;
+}
+.counter{
+    /* text-align: center; */
+    display: flex;
+    justify-content: center;
+    gap:5%;
+}
+
+.btn{
+    padding-left:10px;
+    border:1px solid black;
+}
